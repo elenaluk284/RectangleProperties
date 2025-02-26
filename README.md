@@ -1,1 +1,3 @@
 # RectangleProperties
+
+Calculating rectangle properties
